@@ -281,4 +281,24 @@ public class Main {
 //        }
 //    }
 
+//    //Instance of
+//    public static void main(String[] args) {
+//        Apple firstApple = new Apple(1,"C");
+//        Apple apple = new SomeCurrentApple(1,"A","d");
+//        SomeCurrentApple someCurrentApple = new SomeCurrentApple(1,"B","d");
+//
+//        System.out.println(apple instanceof Apple);
+//        System.out.println(apple instanceof CurrentApple);
+//        System.out.println(apple instanceof SomeCurrentApple);
+//
+//        System.out.println(someCurrentApple instanceof Apple);
+//        System.out.println(someCurrentApple instanceof CurrentApple);
+//        System.out.println(someCurrentApple instanceof SomeCurrentApple);
+//
+//        System.out.println(firstApple instanceof Apple);
+//        System.out.println(firstApple instanceof CurrentApple);
+//        System.out.println(firstApple instanceof SomeCurrentApple);
+//
+//
+//    }
 }
